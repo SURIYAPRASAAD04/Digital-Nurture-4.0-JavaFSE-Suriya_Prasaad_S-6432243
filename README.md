@@ -4,26 +4,26 @@ This repository contains the mandatory hands-on exercises completed as part of t
 
 ---
 
-## 📚 Program Overview
+## Program Overview
 
-👨‍💻 **Role**: Java Full Stack Engineer  
-⏳ **Duration**: 8 Weeks  
-📚 **Mode**: Self-Learning + Instructor-led Sessions  
-🎯 **Goal**: To become an industry-ready Java Full Stack Developer  
-
-
+**Role**: Java Full Stack Engineer  
+**Duration**: 8 Weeks  
+**Mode**: Self-Learning + Instructor-led Sessions  
+**Goal**: To become an industry-ready Java Full Stack Developer  
 
 
----
 
-## ✅ Completion Criteria
-
-✔️ All assignments are mapped from the official **DN 4.0 Mandatory Hands-on Excel Sheet**  
-✔️ Exercises are structured and documented clearly for ease of understanding and review  
 
 ---
 
-## 🙋 Author
+## Completion Criteria
+
+✔ All assignments are mapped from the official **DN 4.0 Mandatory Hands-on Excel Sheet**  
+✔ Exercises are structured and documented clearly for ease of understanding and review  
+
+---
+
+## Author
 
 **Suriya Prasaad S**  
 Email: [suriyaprasaadjayasugumar04@gmail.com](mailto:suriyaprasaadjayasugumar04@gmail.com)  
