@@ -18,8 +18,7 @@ This repository contains the mandatory hands-on exercises completed as part of t
 
 ## Completion Criteria
 
-✔ All assignments are mapped from the official **DN 4.0 Mandatory Hands-on Excel Sheet**  
-✔ Exercises are structured and documented clearly for ease of understanding and review  
+All assignments are mapped from the official **DN 4.0 Mandatory Hands-on Excel Sheet**. Exercises are structured and documented clearly for ease of understanding and review  
 
 ---
 
